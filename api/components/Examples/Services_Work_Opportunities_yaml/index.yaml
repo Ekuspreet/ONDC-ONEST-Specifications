@@ -1,14 +1,14 @@
 search:
   examples:
-    search - by job role:
-      $ref: ./search/search_by_job_role.yaml
-    search - by job provider:
-      $ref: ./search/search_by_job_provider.yaml
-    search - by location of the job:
+    search - by location of the job (mandatory):
       $ref: ./search/search_by_job_location.yaml
-    search - by category:
+    search - by job role (optional):
+      $ref: ./search/search_by_job_role.yaml
+    search - by job provider (optional):
+      $ref: ./search/search_by_job_provider.yaml
+    search - by category (optional):
       $ref: ./search/search_by_category.yaml
-    search - by employment type:
+    search - by employment type (optional):
       $ref: ./search/search_by_employment_type.yaml
     search - incremental start:
       $ref: ./search/search_inc_start.yaml
@@ -42,15 +42,15 @@ cancel:
       $ref: ./cancel/cancel.yaml
 on_search:
   examples:
-    on_search - by job role:
-      $ref: ./on_search/on_search_by_role_name.yaml
-    on_search - by job provider:
-      $ref: ./on_search/on_search_by_job_provider.yaml
-    on_search - by location of the job:
+    on_search - by location of the job (mandatory):
       $ref: ./on_search/on_search_by_job_location.yaml
-    on_search - by category:
+    on_search - by job role (optional):
+      $ref: ./on_search/on_search_by_role_name.yaml
+    on_search - by job provider (optional):
+      $ref: ./on_search/on_search_by_job_provider.yaml
+    on_search - by category (optional):
       $ref: ./on_search/on_search_by_category.yaml
-    on_search - by employment type:
+    on_search - by employment type (optional):
       $ref: ./on_search/on_search_by_employment_type.yaml
     on_search - incremental:
       $ref: ./on_search/on_search_inc.yaml

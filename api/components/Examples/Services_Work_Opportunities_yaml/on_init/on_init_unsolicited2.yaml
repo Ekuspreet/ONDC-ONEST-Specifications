@@ -115,6 +115,67 @@ value:
                     long_desc: "A comprehensive document showcasing an individual's career achievements, skills, work history, education, certifications, and professional experience."
                   url: "https://example.com/resume.pdf"
                   type: "pdf"
+              tags:
+                - descriptor:
+                    code: EMP_DETAILS
+                  list:
+                    - descriptor:
+                        code: TOTAL_EXPERIENCE
+                      value: "P4Y"
+                - descriptor:
+                    code: "DISABILITIES_AND_ACCOMMODATIONS"
+                  list:
+                    - descriptor:
+                        code: "KNOWN_DISABILITIES"
+                      value: "Visual Impairment"
+                - descriptor:
+                    code: "ACADEMIC_QUALIFICATIONS"
+                  list:
+                    - descriptor:
+                        code: "COURSE_NAME"
+                      value: "Bachelor of Science in Computer Science"
+                    - descriptor:
+                        code: "COLLEGE_NAME"
+                      value: "University of Technology"
+                    - descriptor:
+                        code: "YEAR_OF_COMPLETION"
+                      value: "2020"
+                - descriptor:
+                    code: "ONLINE_LEARNING_AND_SPECIALIZATIONS"
+                  list:
+                    - descriptor:
+                        code: "CERTIFICATIONS"
+                      value: "Certified Cloud Practitioner"
+                - descriptor:
+                    code: "WORK_EXPERIENCE"
+                  list:
+                    - descriptor:
+                        code: "TOTAL_EXPERIENCE"
+                      value: "P3Y"
+                - descriptor:
+                    code: "TECHNICAL_SKILLS"
+                  list:
+                    - descriptor:
+                        code: "JOB_SPECIFIC_SKILLS"
+                      value: "Full Stack Development"
+                - descriptor:
+                    code: "SKILLS"
+                  list:
+                    - descriptor:
+                        code: "COMMUNICATION"
+                      value: "Excellent Verbal and Written Skills"
+                    - descriptor:
+                        code: "LEADERSHIP"
+                      value: "Team Management and Decision Making"
+                - descriptor:
+                    code: "DIGITAL_FOOTPRINT"
+                  list:
+                    - descriptor:
+                        code: "LINKEDIN_PROFILE"
+                      value: "https://linkedin.com/in/example-profile"
+                    - descriptor:
+                        code: "GITHUB_REPOSITORIES"
+                      value: "https://github.com/example-profile"
             contact:
               phone: "+91-1234567890"
               email: abc@xyz.com

@@ -5151,6 +5151,67 @@ x-flows:
                                 professional experience.
                             url: https://example.com/resume.pdf
                             type: pdf
+                        tags:
+                          - descriptor:
+                              code: EMP_DETAILS
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P4Y
+                          - descriptor:
+                              code: DISABILITIES_AND_ACCOMMODATIONS
+                            list:
+                              - descriptor:
+                                  code: KNOWN_DISABILITIES
+                                value: Visual Impairment
+                          - descriptor:
+                              code: ACADEMIC_QUALIFICATIONS
+                            list:
+                              - descriptor:
+                                  code: COURSE_NAME
+                                value: Bachelor of Science in Computer Science
+                              - descriptor:
+                                  code: COLLEGE_NAME
+                                value: University of Technology
+                              - descriptor:
+                                  code: YEAR_OF_COMPLETION
+                                value: '2020'
+                          - descriptor:
+                              code: ONLINE_LEARNING_AND_SPECIALIZATIONS
+                            list:
+                              - descriptor:
+                                  code: CERTIFICATIONS
+                                value: Certified Cloud Practitioner
+                          - descriptor:
+                              code: WORK_EXPERIENCE
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P3Y
+                          - descriptor:
+                              code: TECHNICAL_SKILLS
+                            list:
+                              - descriptor:
+                                  code: JOB_SPECIFIC_SKILLS
+                                value: Full Stack Development
+                          - descriptor:
+                              code: SKILLS
+                            list:
+                              - descriptor:
+                                  code: COMMUNICATION
+                                value: Excellent Verbal and Written Skills
+                              - descriptor:
+                                  code: LEADERSHIP
+                                value: Team Management and Decision Making
+                          - descriptor:
+                              code: DIGITAL_FOOTPRINT
+                            list:
+                              - descriptor:
+                                  code: LINKEDIN_PROFILE
+                                value: https://linkedin.com/in/example-profile
+                              - descriptor:
+                                  code: GITHUB_REPOSITORIES
+                                value: https://github.com/example-profile
                       contact:
                         phone: +91-1234567890
                         email: abc@xyz.com
@@ -5326,6 +5387,67 @@ x-flows:
                                 professional experience.
                             url: https://example.com/resume.pdf
                             type: pdf
+                        tags:
+                          - descriptor:
+                              code: EMP_DETAILS
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P4Y
+                          - descriptor:
+                              code: DISABILITIES_AND_ACCOMMODATIONS
+                            list:
+                              - descriptor:
+                                  code: KNOWN_DISABILITIES
+                                value: Visual Impairment
+                          - descriptor:
+                              code: ACADEMIC_QUALIFICATIONS
+                            list:
+                              - descriptor:
+                                  code: COURSE_NAME
+                                value: Bachelor of Science in Computer Science
+                              - descriptor:
+                                  code: COLLEGE_NAME
+                                value: University of Technology
+                              - descriptor:
+                                  code: YEAR_OF_COMPLETION
+                                value: '2020'
+                          - descriptor:
+                              code: ONLINE_LEARNING_AND_SPECIALIZATIONS
+                            list:
+                              - descriptor:
+                                  code: CERTIFICATIONS
+                                value: Certified Cloud Practitioner
+                          - descriptor:
+                              code: WORK_EXPERIENCE
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P3Y
+                          - descriptor:
+                              code: TECHNICAL_SKILLS
+                            list:
+                              - descriptor:
+                                  code: JOB_SPECIFIC_SKILLS
+                                value: Full Stack Development
+                          - descriptor:
+                              code: SKILLS
+                            list:
+                              - descriptor:
+                                  code: COMMUNICATION
+                                value: Excellent Verbal and Written Skills
+                              - descriptor:
+                                  code: LEADERSHIP
+                                value: Team Management and Decision Making
+                          - descriptor:
+                              code: DIGITAL_FOOTPRINT
+                            list:
+                              - descriptor:
+                                  code: LINKEDIN_PROFILE
+                                value: https://linkedin.com/in/example-profile
+                              - descriptor:
+                                  code: GITHUB_REPOSITORIES
+                                value: https://github.com/example-profile
                       contact:
                         phone: +91-1234567890
                         email: abc@xyz.com
@@ -5485,6 +5607,67 @@ x-flows:
                                 professional experience.
                             url: https://example.com/resume.pdf
                             type: pdf
+                        tags:
+                          - descriptor:
+                              code: EMP_DETAILS
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P4Y
+                          - descriptor:
+                              code: DISABILITIES_AND_ACCOMMODATIONS
+                            list:
+                              - descriptor:
+                                  code: KNOWN_DISABILITIES
+                                value: Visual Impairment
+                          - descriptor:
+                              code: ACADEMIC_QUALIFICATIONS
+                            list:
+                              - descriptor:
+                                  code: COURSE_NAME
+                                value: Bachelor of Science in Computer Science
+                              - descriptor:
+                                  code: COLLEGE_NAME
+                                value: University of Technology
+                              - descriptor:
+                                  code: YEAR_OF_COMPLETION
+                                value: '2020'
+                          - descriptor:
+                              code: ONLINE_LEARNING_AND_SPECIALIZATIONS
+                            list:
+                              - descriptor:
+                                  code: CERTIFICATIONS
+                                value: Certified Cloud Practitioner
+                          - descriptor:
+                              code: WORK_EXPERIENCE
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P3Y
+                          - descriptor:
+                              code: TECHNICAL_SKILLS
+                            list:
+                              - descriptor:
+                                  code: JOB_SPECIFIC_SKILLS
+                                value: Full Stack Development
+                          - descriptor:
+                              code: SKILLS
+                            list:
+                              - descriptor:
+                                  code: COMMUNICATION
+                                value: Excellent Verbal and Written Skills
+                              - descriptor:
+                                  code: LEADERSHIP
+                                value: Team Management and Decision Making
+                          - descriptor:
+                              code: DIGITAL_FOOTPRINT
+                            list:
+                              - descriptor:
+                                  code: LINKEDIN_PROFILE
+                                value: https://linkedin.com/in/example-profile
+                              - descriptor:
+                                  code: GITHUB_REPOSITORIES
+                                value: https://github.com/example-profile
                       contact:
                         phone: +91-1234567890
                         email: abc@xyz.com
@@ -5625,6 +5808,67 @@ x-flows:
                                 professional experience.
                             url: https://example.com/resume.pdf
                             type: pdf
+                        tags:
+                          - descriptor:
+                              code: EMP_DETAILS
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P4Y
+                          - descriptor:
+                              code: DISABILITIES_AND_ACCOMMODATIONS
+                            list:
+                              - descriptor:
+                                  code: KNOWN_DISABILITIES
+                                value: Visual Impairment
+                          - descriptor:
+                              code: ACADEMIC_QUALIFICATIONS
+                            list:
+                              - descriptor:
+                                  code: COURSE_NAME
+                                value: Bachelor of Science in Computer Science
+                              - descriptor:
+                                  code: COLLEGE_NAME
+                                value: University of Technology
+                              - descriptor:
+                                  code: YEAR_OF_COMPLETION
+                                value: '2020'
+                          - descriptor:
+                              code: ONLINE_LEARNING_AND_SPECIALIZATIONS
+                            list:
+                              - descriptor:
+                                  code: CERTIFICATIONS
+                                value: Certified Cloud Practitioner
+                          - descriptor:
+                              code: WORK_EXPERIENCE
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P3Y
+                          - descriptor:
+                              code: TECHNICAL_SKILLS
+                            list:
+                              - descriptor:
+                                  code: JOB_SPECIFIC_SKILLS
+                                value: Full Stack Development
+                          - descriptor:
+                              code: SKILLS
+                            list:
+                              - descriptor:
+                                  code: COMMUNICATION
+                                value: Excellent Verbal and Written Skills
+                              - descriptor:
+                                  code: LEADERSHIP
+                                value: Team Management and Decision Making
+                          - descriptor:
+                              code: DIGITAL_FOOTPRINT
+                            list:
+                              - descriptor:
+                                  code: LINKEDIN_PROFILE
+                                value: https://linkedin.com/in/example-profile
+                              - descriptor:
+                                  code: GITHUB_REPOSITORIES
+                                value: https://github.com/example-profile
                       contact:
                         phone: +91-1234567890
                         email: abc@xyz.com
@@ -5732,94 +5976,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for tools (Web, PWA,
-                              React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: Define long-term technical direction and vision
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create reliable interfaces using modern tools like
-                              React, React Native, Typescript, Node.js, Jest,
-                              and Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor team members on design techniques and
-                              coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: JOB_TYPE
-                            value: Full-Time
-                          - descriptor:
-                              code: JOB_ROLE
-                            value: DevOps Engineer
                 quote:
                   price:
                     currency: INR
@@ -5906,6 +6062,67 @@ x-flows:
                                 professional experience.
                             url: https://example.com/resume.pdf
                             type: pdf
+                        tags:
+                          - descriptor:
+                              code: EMP_DETAILS
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P4Y
+                          - descriptor:
+                              code: DISABILITIES_AND_ACCOMMODATIONS
+                            list:
+                              - descriptor:
+                                  code: KNOWN_DISABILITIES
+                                value: Visual Impairment
+                          - descriptor:
+                              code: ACADEMIC_QUALIFICATIONS
+                            list:
+                              - descriptor:
+                                  code: COURSE_NAME
+                                value: Bachelor of Science in Computer Science
+                              - descriptor:
+                                  code: COLLEGE_NAME
+                                value: University of Technology
+                              - descriptor:
+                                  code: YEAR_OF_COMPLETION
+                                value: '2020'
+                          - descriptor:
+                              code: ONLINE_LEARNING_AND_SPECIALIZATIONS
+                            list:
+                              - descriptor:
+                                  code: CERTIFICATIONS
+                                value: Certified Cloud Practitioner
+                          - descriptor:
+                              code: WORK_EXPERIENCE
+                            list:
+                              - descriptor:
+                                  code: TOTAL_EXPERIENCE
+                                value: P3Y
+                          - descriptor:
+                              code: TECHNICAL_SKILLS
+                            list:
+                              - descriptor:
+                                  code: JOB_SPECIFIC_SKILLS
+                                value: Full Stack Development
+                          - descriptor:
+                              code: SKILLS
+                            list:
+                              - descriptor:
+                                  code: COMMUNICATION
+                                value: Excellent Verbal and Written Skills
+                              - descriptor:
+                                  code: LEADERSHIP
+                                value: Team Management and Decision Making
+                          - descriptor:
+                              code: DIGITAL_FOOTPRINT
+                            list:
+                              - descriptor:
+                                  code: LINKEDIN_PROFILE
+                                value: https://linkedin.com/in/example-profile
+                              - descriptor:
+                                  code: GITHUB_REPOSITORIES
+                                value: https://github.com/example-profile
                       contact:
                         phone: +91-1234567890
                         email: abc@xyz.com
@@ -6025,105 +6242,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for our tools (Web, PWA
-                              and React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Articulate a long term technical direction and
-                              vision for building, maintaining, and scaling our
-                              web and mobile platforms
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create trustworthy user experiences by building
-                              interfaces that are simple, easy to comprehend,
-                              performant and reliable using modern tools like
-                              React, React Native, Typescript, Node.js, Jest and
-                              Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor and train other team members on design
-                              techniques and coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: CTC
-                            value: 20,00,000
-                          - descriptor:
-                              code: POST_START_LOCATION
-                            value: Pune
-                          - descriptor:
-                              code: WORKING_LOCATION
-                            value: Hybrid
-                          - descriptor:
-                              code: WORKING_TIME
-                            value: Full-Time
                 quote:
                   price:
                     currency: INR
@@ -6242,105 +6360,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for our tools (Web, PWA
-                              and React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Articulate a long term technical direction and
-                              vision for building, maintaining, and scaling our
-                              web and mobile platforms
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create trustworthy user experiences by building
-                              interfaces that are simple, easy to comprehend,
-                              performant and reliable using modern tools like
-                              React, React Native, Typescript, Node.js, Jest and
-                              Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor and train other team members on design
-                              techniques and coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: CTC
-                            value: 20,00,000
-                          - descriptor:
-                              code: POST_START_LOCATION
-                            value: Pune
-                          - descriptor:
-                              code: WORKING_LOCATION
-                            value: Hybrid
-                          - descriptor:
-                              code: WORKING_TIME
-                            value: Full-Time
                 quote:
                   price:
                     currency: INR
@@ -6640,99 +6659,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                          - descriptor:
-                              code: REQ_ADDL_SKILL
-                            value: >-
-                              8+ years of engineering experience in shipping
-                              user-facing production features
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for tools (Web, PWA,
-                              React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: Define long-term technical direction and vision
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create reliable interfaces using modern tools like
-                              React, React Native, Typescript, Node.js, Jest,
-                              and Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor team members on design techniques and
-                              coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: JOB_TYPE
-                            value: Full-Time
-                          - descriptor:
-                              code: JOB_ROLE
-                            value: DevOps Engineer
                 fulfillments:
                   - id: F3
                     type: lead & recruitment
@@ -6879,99 +6805,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: REQ_ADDL_SKILL
-                            value: >-
-                              8+ years of engineering experience in shipping
-                              user-facing production features
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for tools (Web, PWA,
-                              React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: Define long-term technical direction and vision
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create reliable interfaces using modern tools like
-                              React, React Native, Typescript, Node.js, Jest,
-                              and Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor team members on design techniques and
-                              coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: JOB_TYPE
-                            value: Full-Time
-                          - descriptor:
-                              code: JOB_ROLE
-                            value: DevOps Engineer
                 fulfillments:
                   - id: F3
                     type: lead & recruitment
@@ -7182,99 +7015,6 @@ x-flows:
                         list:
                           - code: ID
                             value: '2'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-X
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_NAME
-                            value: Class-XII
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Under Graduate
-                          - descriptor:
-                              code: MIN_PERCENTAGE
-                            value: '60'
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'true'
-                      - descriptor:
-                          code: ACADEMIC_QUALIFICATIONS
-                        list:
-                          - descriptor:
-                              code: COURSE_LEVEL
-                            value: Graduate
-                          - descriptor:
-                              code: MANDATORY_ELIGIBILITY
-                            value: 'false'
-                      - descriptor:
-                          code: JOB_REQUIREMENTS
-                        list:
-                          - descriptor:
-                              code: REQ_EXPERIENCE
-                            value: P2Y6M
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: dev-ops
-                          - descriptor:
-                              code: ADD_PROF_SKILL
-                            value: android-development
-                          - descriptor:
-                              code: REQ_ADDL_SKILL
-                            value: >-
-                              8+ years of engineering experience in shipping
-                              user-facing production features
-                      - descriptor:
-                          code: JOB_RESPONSIBILITIES
-                        list:
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Build frontend experiences for tools (Web, PWA,
-                              React Native)
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: Define long-term technical direction and vision
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Create reliable interfaces using modern tools like
-                              React, React Native, Typescript, Node.js, Jest,
-                              and Webpack.
-                          - descriptor:
-                              code: RESPONSIBILITY
-                            value: >-
-                              Mentor team members on design techniques and
-                              coding standards.
-                      - descriptor:
-                          code: JOB_DETAILS
-                        list:
-                          - descriptor:
-                              code: JOB_TYPE
-                            value: Full-Time
-                          - descriptor:
-                              code: JOB_ROLE
-                            value: DevOps Engineer
                 fulfillments:
                   - id: F3
                     type: lead & recruitment
@@ -7367,7 +7107,53 @@ x-examples:
     example_set:
       search:
         examples:
-          search - by job role:
+          search - by location of the job (mandatory):
+            value:
+              context:
+                domain: ONDC:ONEST10
+                action: search
+                version: 2.0.0
+                bap_id: worker-hub.bap.io
+                bap_uri: https://worker-hub.bap.io/
+                transaction_id: a9aaecca-10b7-4d19-b640-b047a7c62195
+                message_id: $89bdae17-9942-40c8-869a-5bd413356407
+                location:
+                  city:
+                    code: std:080
+                  country:
+                    code: IND
+                timestamp: '2022-10-11T09:55:41.161Z'
+                ttl: PT30S
+              message:
+                intent:
+                  payment:
+                    descriptor:
+                      code: NP_FEES
+                    list:
+                      - code: ID
+                        value: '1'
+                  provider:
+                    locations:
+                      - city:
+                          code: std:080
+                        state:
+                          code: IN-KA
+                        country:
+                          code: IN
+                  tags:
+                    - descriptor:
+                        code: BAP_TERMS
+                      list:
+                        - descriptor:
+                            code: STATIC_TERMS
+                          value: static_terms_value
+                        - descriptor:
+                            code: STATIC_TERMS_NEW
+                          value: static_terms_new_value
+                        - descriptor:
+                            code: EFFECTIVE_DATE
+                          value: '2023-02-22T11:20:10.122Z'
+          search - by job role (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -7422,7 +7208,7 @@ x-examples:
                         - descriptor:
                             code: EFFECTIVE_DATE
                           value: '2023-02-22T11:20:10.122Z'
-          search - by job provider:
+          search - by job provider (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -7463,53 +7249,7 @@ x-examples:
                         - descriptor:
                             code: EFFECTIVE_DATE
                           value: '2023-02-22T11:20:10.122Z'
-          search - by location of the job:
-            value:
-              context:
-                domain: ONDC:ONEST10
-                action: search
-                version: 2.0.0
-                bap_id: worker-hub.bap.io
-                bap_uri: https://worker-hub.bap.io/
-                transaction_id: a9aaecca-10b7-4d19-b640-b047a7c62195
-                message_id: $89bdae17-9942-40c8-869a-5bd413356407
-                location:
-                  city:
-                    code: std:080
-                  country:
-                    code: IND
-                timestamp: '2022-10-11T09:55:41.161Z'
-                ttl: PT30S
-              message:
-                intent:
-                  payment:
-                    descriptor:
-                      code: NP_FEES
-                    list:
-                      - code: ID
-                        value: '1'
-                  provider:
-                    locations:
-                      - city:
-                          code: std:080
-                        state:
-                          code: IN-KA
-                        country:
-                          code: IN
-                  tags:
-                    - descriptor:
-                        code: BAP_TERMS
-                      list:
-                        - descriptor:
-                            code: STATIC_TERMS
-                          value: static_terms_value
-                        - descriptor:
-                            code: STATIC_TERMS_NEW
-                          value: static_terms_new_value
-                        - descriptor:
-                            code: EFFECTIVE_DATE
-                          value: '2023-02-22T11:20:10.122Z'
-          search - by category:
+          search - by category (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -7555,7 +7295,7 @@ x-examples:
                         - descriptor:
                             code: EFFECTIVE_DATE
                           value: '2023-02-22T11:20:10.122Z'
-          search - by employment type:
+          search - by employment type (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -7655,7 +7395,767 @@ x-examples:
           cancel: *ref_13
       on_search:
         examples:
-          on_search - by job role:
+          on_search - by location of the job (mandatory):
+            value:
+              context:
+                domain: ONDC:ONEST10
+                action: on_search
+                version: 2.0.0
+                bap_id: worker-hub.bap.io
+                bap_uri: https://worker-hub.bap.io
+                bpp_id: job-hub.bpp.io
+                bpp_uri: https://job-hub.bpp.io
+                transaction_id: a9aaecca-10b7-4d19-b640-b047a7c62195
+                message_id: 672f774c-4281-44dd-b1c2-84222a3d771e
+                location:
+                  city:
+                    code: std:080
+                  country:
+                    code: IND
+                timestamp: '2023-02-22T11:45:10.171Z'
+                ttl: PT30S
+              message:
+                catalog:
+                  descriptor:
+                    name: Affindi Jobs
+                  providers:
+                    - id: '1'
+                      descriptor:
+                        name: Affinidi
+                        short_desc: Short Description about the company
+                        images:
+                          - url: url of the image of the provider
+                      fulfillments:
+                        - id: F1
+                          type: lead
+                        - id: F2
+                          type: recruitment
+                        - id: F3
+                          type: lead & recruitment
+                      locations:
+                        - id: L1
+                          city:
+                            code: std:022
+                          state:
+                            code: MH
+                          area_code:
+                            code: '400001'
+                      items:
+                        - id: 0253719F295521CED39EC9C2F3C8DCDE
+                          category_ids:
+                            - Software development
+                          descriptor:
+                            name: Fullstack Engineer
+                            long_desc: >-
+                              We’re on a search for a Staff Mobile Developer
+                              with the following attributes: Critical Thinking-
+                              You are able to skillfully conceptualise, apply,
+                              analyse and evaluate information gathered from
+                              observation, experience or communication and use
+                              it as a guide to action Data-Driven attitude — You
+                              often propose solutions or make a point in a
+                              logical and objective manner, substantiated with
+                              accurate data and evidence Dealing with Ambiguity
+                              — You can effectively cope with change and
+                              uncertainty, and are comfortable when things are
+                              up in the air Goal-oriented — You are driven and
+                              can be counted on to exceed goals. You steadfastly
+                              push yourself and others to achieve results all
+                              the time Problem Solving — You can easily identify
+                              and solve complex problems in a methodological
+                              manner
+                            short_desc: >-
+                              We are seeking a Staff Mobile Developer with
+                              strong critical thinking, data-driven
+                              decision-making, adaptability, goal-orientation,
+                              and problem-solving skills.
+                            images:
+                              - url: images url1
+                              - url: images url2
+                            media:
+                              - mimetype: audio/mp4
+                                url: http://url-to-audio-about-job
+                              - mimetype: video/mp4
+                                url: http://url-to-video-about-job
+                          quantity:
+                            available:
+                              count: 50
+                          time:
+                            label: enable
+                            timestamp: '2023-02-22T11:45:10.171Z'
+                            range:
+                              start: '2023-01-03T13:23:10.171Z'
+                              end: '2023-02-03T13:23:10.171Z'
+                          location_ids:
+                            - L2
+                          fulfillment_ids:
+                            - F3
+                          creator:
+                            descriptor:
+                              name: Marketplace Connector
+                              code: MPC_45
+                              short_desc: Connecting Digital Marketplaces
+                              long_desc: >-
+                                This platform bridges various digital
+                                marketplaces, fostering seamless trade and
+                                enhancing accessibility for businesses and
+                                consumers alike.
+                              media:
+                                - mimetype: image/jpeg
+                                  url: https://marketplace.com/logo.jpg
+                              images:
+                                - url: https://marketplace.com/banner.jpg
+                            address: Level 5, Trade Tower, Mumbai, Maharashtra, India
+                            state:
+                              code: MH
+                            city:
+                              code: MUM
+                            contact:
+                              phone: +91-1234567890
+                              email: support@marketplace.com
+                          tags:
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '1'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '5'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1800'
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '6'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '6'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1400'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-X
+                                - descriptor:
+                                    code: MIN_CGPA
+                                  value: '6.5'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'false'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-XII
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Under Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'false'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'false'
+                            - descriptor:
+                                code: JOB_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: REQ_EXPERIENCE
+                                  value: P2Y6M
+                                - descriptor:
+                                    code: ADD_PROF_SKILL
+                                  value: android-development
+                                - descriptor:
+                                    code: ADD_PROF_SKILL
+                                  value: dev-ops
+                            - descriptor:
+                                code: DOC_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: DOCUMENT_NAME
+                                  value: PAN_CARD
+                            - descriptor:
+                                code: JOB_RESPONSIBILITIES
+                              list:
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Build frontend experiences for our tools
+                                    (Web, PWA and React Native)
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Articulate a long-term technical direction
+                                    and vision for building, maintaining, and
+                                    scaling our web and mobile platforms
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Create trustworthy user experiences by
+                                    building interfaces that are simple, easy to
+                                    comprehend, performant, and reliable using
+                                    modern tools like React, React Native,
+                                    Typescript, Node.js, Jest, and Webpack.
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Mentor and train other team members on
+                                    design techniques and coding standards.
+                            - descriptor:
+                                code: JOB_DETAILS
+                              list:
+                                - descriptor:
+                                    code: JOB_TYPE
+                                  value: full-time
+                                - descriptor:
+                                    code: JOB_ROLE
+                                  value: Fullstack Engineer
+                                - descriptor:
+                                    code: JOB_LEVEL
+                                  value: Mid-level
+                                - descriptor:
+                                    code: GENDER_PREFERENCE
+                                  value: Male
+                            - descriptor:
+                                code: COMPENSATION
+                              list:
+                                - descriptor:
+                                    code: TYPE
+                                  value: lpa
+                                - descriptor:
+                                    code: MIN
+                                  value: '25'
+                                - descriptor:
+                                    code: MAX
+                                  value: '30'
+                            - descriptor:
+                                code: NP_FEES
+                              list:
+                                - code: ID
+                                  value: '1'
+                                - code: COMMERCIAL_TYPE
+                                  value: percent
+                                - code: COMMERCIAL_VALUE
+                                  value: '0.5'
+                                - code: COMMERCIAL_NAME
+                                  value: recruitment
+                                - code: COMMERCIAL_TRIGGERING_STATE
+                                  value: OFFER_ACCEPTED
+                                - code: COMPENSATION_TYPE
+                                  value: LPA
+                                - code: COMPENSATION_TRANSFER_PERIOD
+                                  value: P1M,P2M,P3M
+                                - code: COMPENSATION_PERCENTAGE_SPLIT
+                                  value: 50,25,25
+                          price:
+                            currency: INR
+                            value: '1100.00'
+                            maximum_value: '1200.0'
+                        - id: 34H1BH24GBH4BHH6DF15E62A81C375B6
+                          category_ids:
+                            - DevOps
+                          descriptor:
+                            name: Sr. Devops Engineer
+                            long_desc: >-
+                              We’re on a search for a Staff Mobile Developer
+                              with the following attributes: Critical Thinking-
+                              You are able to skillfully conceptualise, apply,
+                              analyse and evaluate information gathered from
+                              observation, experience or communication and use
+                              it as a guide to action Data-Driven attitude — You
+                              often propose solutions or make a point in a
+                              logical and objective manner, substantiated with
+                              accurate data and evidence Dealing with Ambiguity
+                              — You can effectively cope with change and
+                              uncertainty, and are comfortable when things are
+                              up in the air Goal-oriented — You are driven and
+                              can be counted on to exceed goals. You steadfastly
+                              push yourself and others to achieve results all
+                              the time Problem Solving — You can easily identify
+                              and solve complex problems in a methodological
+                              manner
+                            short_desc: >-
+                              We are seeking a Staff Mobile Developer with
+                              strong critical thinking, data-driven
+                              decision-making, adaptability, goal-orientation,
+                              and problem-solving skills.
+                            images:
+                              - url: images url1
+                              - url: images url2
+                            media:
+                              - mimetype: audio/mp4
+                                url: http://url-to-audio-about-job
+                              - mimetype: video/mp4
+                                url: http://url-to-video-about-job
+                          quantity:
+                            available:
+                              count: 150
+                          location_ids:
+                            - L1
+                          fulfillment_ids:
+                            - F1
+                            - F2
+                          creator:
+                            descriptor:
+                              name: Global Trade Hub
+                              code: GTH_99
+                              short_desc: Facilitating Global Commerce
+                              long_desc: >-
+                                Global Trade Hub is a platform designed to
+                                enable international trade by connecting buyers
+                                and sellers across borders with innovative
+                                solutions.
+                              media:
+                                - mimetype: image/svg+xml
+                                  url: https://globaltradehub.com/logo.svg
+                              images:
+                                - url: https://globaltradehub.com/header-image.jpg
+                            address: >-
+                              Suite 302, International Business Park, New Delhi,
+                              India
+                            state:
+                              code: DL
+                            city:
+                              code: NDL
+                            contact:
+                              phone: +91-1234567890
+                              email: info@globaltradehub.com
+                          time:
+                            label: enable
+                            timestamp: '2023-02-22T11:45:10.171Z'
+                            range:
+                              start: '2023-01-03T13:23:10.171Z'
+                              end: '2023-02-03T13:23:10.171Z'
+                          tags:
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '1'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '5'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1800'
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '6'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '6'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1400'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-X
+                                - descriptor:
+                                    code: MIN_CGPA
+                                  value: '6.5'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-XII
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Under Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: JOB_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: REQ_EXPERIENCE
+                                  value: P2Y6M
+                            - descriptor:
+                                code: DOC_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: DOCUMENT_NAME
+                                  value: AADHAAR_CARD
+                          price:
+                            currency: INR
+                            value: '1000.00'
+                            maximum_value: '1500.0'
+                        - id: 34H1BH24GBH4BHH6DF15E62A81C374B4
+                          category_ids:
+                            - DevOps
+                          descriptor:
+                            name: Jr. Devops Engineer
+                            long_desc: >-
+                              We’re on a search for a Staff Mobile Developer
+                              with the following attributes: Critical Thinking-
+                              You are able to skillfully conceptualise, apply,
+                              analyse and evaluate information gathered from
+                              observation, experience or communication and use
+                              it as a guide to action Data-Driven attitude — You
+                              often propose solutions or make a point in a
+                              logical and objective manner, substantiated with
+                              accurate data and evidence Dealing with Ambiguity
+                              — You can effectively cope with change and
+                              uncertainty, and are comfortable when things are
+                              up in the air Goal-oriented — You are driven and
+                              can be counted on to exceed goals. You steadfastly
+                              push yourself and others to achieve results all
+                              the time Problem Solving — You can easily identify
+                              and solve complex problems in a methodological
+                              manner
+                            short_desc: >-
+                              We are seeking a Staff Mobile Developer with
+                              strong critical thinking, data-driven
+                              decision-making, adaptability, goal-orientation,
+                              and problem-solving skills.
+                            images:
+                              - url: images url1
+                              - url: images url2
+                            media:
+                              - mimetype: audio/mp4
+                                url: http://url-to-audio-about-job
+                              - mimetype: video/mp4
+                                url: http://url-to-video-about-job
+                          quantity:
+                            available:
+                              count: 150
+                          location_ids:
+                            - L1
+                          fulfillment_ids:
+                            - F1
+                            - F2
+                          creator:
+                            descriptor:
+                              name: Marketplace Connector
+                              code: MPC_45
+                              short_desc: Connecting Digital Marketplaces
+                              long_desc: >-
+                                This platform bridges various digital
+                                marketplaces, fostering seamless trade and
+                                enhancing accessibility for businesses and
+                                consumers alike.
+                              media:
+                                - mimetype: image/jpeg
+                                  url: https://marketplace.com/logo.jpg
+                              images:
+                                - url: https://marketplace.com/banner.jpg
+                            address: Level 5, Trade Tower, Mumbai, Maharashtra, India
+                            state:
+                              code: MH
+                            city:
+                              code: MUM
+                            contact:
+                              phone: +91-1234567890
+                              email: support@marketplace.com
+                          time:
+                            label: enable
+                            timestamp: '2023-02-22T11:45:10.171Z'
+                            range:
+                              start: '2023-01-03T13:23:10.171Z'
+                              end: '2023-02-03T13:23:10.171Z'
+                          tags:
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '1'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '5'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1800'
+                            - descriptor:
+                                code: TIMING
+                              list:
+                                - descriptor:
+                                    code: DAY_FROM
+                                  value: '6'
+                                - descriptor:
+                                    code: DAY_TO
+                                  value: '6'
+                                - descriptor:
+                                    code: TIME_FROM
+                                  value: '0900'
+                                - descriptor:
+                                    code: TIME_TO
+                                  value: '1400'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-X
+                                - descriptor:
+                                    code: MIN_CGPA
+                                  value: '6.5'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_NAME
+                                  value: Class-XII
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Under Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: ACADEMIC_QUALIFICATIONS
+                              list:
+                                - descriptor:
+                                    code: COURSE_LEVEL
+                                  value: Graduate
+                                - descriptor:
+                                    code: MIN_PERCENTAGE
+                                  value: '60'
+                                - descriptor:
+                                    code: MANDATORY_ELIGIBILITY
+                                  value: 'true'
+                            - descriptor:
+                                code: JOB_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: REQ_EXPERIENCE
+                                  value: P6M
+                                - descriptor:
+                                    code: ADD_PROF_SKILL
+                                  value: pipeline-development
+                                - descriptor:
+                                    code: ADD_PROF_SKILL
+                                  value: dev-ops
+                            - descriptor:
+                                code: DOC_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: DOCUMENT_NAME
+                                  value: AADHAAR_CARD
+                            - descriptor:
+                                code: DOC_REQUIREMENTS
+                              list:
+                                - descriptor:
+                                    code: DOCUMENT_NAME
+                                  value: PAN_CARD
+                            - descriptor:
+                                code: JOB_RESPONSIBILITIES
+                              list:
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Build frontend experiences for our tools
+                                    (Web, PWA and React Native)
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Articulate a long term technical direction
+                                    and vision for building, maintaining, and
+                                    scaling our web and mobile platforms
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Create trustworthy user experiences by
+                                    building interfaces that are simple, easy to
+                                    comprehend, performant and reliable using
+                                    modern tools like React, React Native,
+                                    Typescript, Node.js, Jest and Webpack.
+                                - descriptor:
+                                    code: RESPONSIBILITY
+                                  value: >-
+                                    Mentor and train other team members on
+                                    design techniques and coding standards.
+                            - descriptor:
+                                code: JOB_DETAILS
+                              list:
+                                - descriptor:
+                                    code: JOB_TYPE
+                                  value: full-time
+                                - descriptor:
+                                    code: JOB_ROLE
+                                  value: DevOps Engineer
+                                - descriptor:
+                                    code: JOB_LEVEL
+                                  value: Entry-level
+                                - descriptor:
+                                    code: GENDER_PREFERENCE
+                                  value: Male
+                            - descriptor:
+                                code: COMPENSATION
+                              list:
+                                - descriptor:
+                                    code: TYPE
+                                  value: ctc
+                                - descriptor:
+                                    code: MIN
+                                  value: '2500000'
+                                - descriptor:
+                                    code: MAX
+                                  value: '3000000'
+                            - descriptor:
+                                code: NP_FEES
+                              list:
+                                - code: ID
+                                  value: '1'
+                                - code: COMMERCIAL_TYPE
+                                  value: percent
+                                - code: COMMERCIAL_VALUE
+                                  value: '0.5'
+                                - code: COMMERCIAL_NAME
+                                  value: recruitment
+                                - code: COMMERCIAL_TRIGGERING_STATE
+                                  value: OFFER_ACCEPTED
+                                - code: COMPENSATION_TYPE
+                                  value: CTC
+                                - code: COMPENSATION_TRANSFER_PERIOD
+                                  value: P1M,P3M,P10M
+                                - code: COMPENSATION_PERCENTAGE_SPLIT
+                                  value: 25,25,50
+                            - descriptor:
+                                code: NP_FEES
+                              list:
+                                - code: ID
+                                  value: '2'
+                                - code: COMMERCIAL_TYPE
+                                  value: percent
+                                - code: COMMERCIAL_VALUE
+                                  value: '0.2'
+                                - code: COMMERCIAL_NAME
+                                  value: lead
+                                - code: COMMERCIAL_TRIGGERING_STATE
+                                  value: OFFER_EXTENDED
+                                - code: COMPENSATION_TYPE
+                                  value: LPA
+                                - code: COMPENSATION_TRANSFER_PERIOD
+                                  value: P1M,P2M,P3M
+                                - code: COMPENSATION_PERCENTAGE_SPLIT
+                                  value: 50,25,25
+                            - descriptor:
+                                code: NP_FEES
+                              list:
+                                - code: ID
+                                  value: '3'
+                                - code: COMMERCIAL_TYPE
+                                  value: amount
+                                - code: COMMERCIAL_VALUE
+                                  value: '300'
+                                - code: COMMERCIAL_NAME
+                                  value: lead
+                                - code: COMMERCIAL_TRIGGERING_STATE
+                                  value: APPLICATION_SUBMITTED
+                                - code: COMPENSATION_TYPE
+                                  value: CTC
+                                - code: COMPENSATION_TRANSFER_PERIOD
+                                  value: P1M,P3M,P10M
+                                - code: COMPENSATION_PERCENTAGE_SPLIT
+                                  value: 25,25,50
+                          price:
+                            currency: INR
+                            value: '1000.00'
+                            maximum_value: '1500.0'
+                      tags:
+                        - descriptor:
+                            code: LOCATION
+                          list:
+                            - descriptor:
+                                code: ADDRESS
+                              value: Level 5, Trade Tower, Mumbai, Maharashtra, India
+          on_search - by job role (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -8592,7 +9092,7 @@ x-examples:
                               value: >-
                                 Suite 302, International Business Park, New
                                 Delhi, India
-          on_search - by job provider:
+          on_search - by job provider (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -10434,767 +10934,7 @@ x-examples:
                               value: >-
                                 Suite 302, International Business Park, New
                                 Delhi, India
-          on_search - by location of the job:
-            value:
-              context:
-                domain: ONDC:ONEST10
-                action: on_search
-                version: 2.0.0
-                bap_id: worker-hub.bap.io
-                bap_uri: https://worker-hub.bap.io
-                bpp_id: job-hub.bpp.io
-                bpp_uri: https://job-hub.bpp.io
-                transaction_id: a9aaecca-10b7-4d19-b640-b047a7c62195
-                message_id: 672f774c-4281-44dd-b1c2-84222a3d771e
-                location:
-                  city:
-                    code: std:080
-                  country:
-                    code: IND
-                timestamp: '2023-02-22T11:45:10.171Z'
-                ttl: PT30S
-              message:
-                catalog:
-                  descriptor:
-                    name: Affindi Jobs
-                  providers:
-                    - id: '1'
-                      descriptor:
-                        name: Affinidi
-                        short_desc: Short Description about the company
-                        images:
-                          - url: url of the image of the provider
-                      fulfillments:
-                        - id: F1
-                          type: lead
-                        - id: F2
-                          type: recruitment
-                        - id: F3
-                          type: lead & recruitment
-                      locations:
-                        - id: L1
-                          city:
-                            code: std:022
-                          state:
-                            code: MH
-                          area_code:
-                            code: '400001'
-                      items:
-                        - id: 0253719F295521CED39EC9C2F3C8DCDE
-                          category_ids:
-                            - Software development
-                          descriptor:
-                            name: Fullstack Engineer
-                            long_desc: >-
-                              We’re on a search for a Staff Mobile Developer
-                              with the following attributes: Critical Thinking-
-                              You are able to skillfully conceptualise, apply,
-                              analyse and evaluate information gathered from
-                              observation, experience or communication and use
-                              it as a guide to action Data-Driven attitude — You
-                              often propose solutions or make a point in a
-                              logical and objective manner, substantiated with
-                              accurate data and evidence Dealing with Ambiguity
-                              — You can effectively cope with change and
-                              uncertainty, and are comfortable when things are
-                              up in the air Goal-oriented — You are driven and
-                              can be counted on to exceed goals. You steadfastly
-                              push yourself and others to achieve results all
-                              the time Problem Solving — You can easily identify
-                              and solve complex problems in a methodological
-                              manner
-                            short_desc: >-
-                              We are seeking a Staff Mobile Developer with
-                              strong critical thinking, data-driven
-                              decision-making, adaptability, goal-orientation,
-                              and problem-solving skills.
-                            images:
-                              - url: images url1
-                              - url: images url2
-                            media:
-                              - mimetype: audio/mp4
-                                url: http://url-to-audio-about-job
-                              - mimetype: video/mp4
-                                url: http://url-to-video-about-job
-                          quantity:
-                            available:
-                              count: 50
-                          time:
-                            label: enable
-                            timestamp: '2023-02-22T11:45:10.171Z'
-                            range:
-                              start: '2023-01-03T13:23:10.171Z'
-                              end: '2023-02-03T13:23:10.171Z'
-                          location_ids:
-                            - L2
-                          fulfillment_ids:
-                            - F3
-                          creator:
-                            descriptor:
-                              name: Marketplace Connector
-                              code: MPC_45
-                              short_desc: Connecting Digital Marketplaces
-                              long_desc: >-
-                                This platform bridges various digital
-                                marketplaces, fostering seamless trade and
-                                enhancing accessibility for businesses and
-                                consumers alike.
-                              media:
-                                - mimetype: image/jpeg
-                                  url: https://marketplace.com/logo.jpg
-                              images:
-                                - url: https://marketplace.com/banner.jpg
-                            address: Level 5, Trade Tower, Mumbai, Maharashtra, India
-                            state:
-                              code: MH
-                            city:
-                              code: MUM
-                            contact:
-                              phone: +91-1234567890
-                              email: support@marketplace.com
-                          tags:
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '1'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '5'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1800'
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '6'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '6'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1400'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-X
-                                - descriptor:
-                                    code: MIN_CGPA
-                                  value: '6.5'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'false'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-XII
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Under Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'false'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'false'
-                            - descriptor:
-                                code: JOB_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: REQ_EXPERIENCE
-                                  value: P2Y6M
-                                - descriptor:
-                                    code: ADD_PROF_SKILL
-                                  value: android-development
-                                - descriptor:
-                                    code: ADD_PROF_SKILL
-                                  value: dev-ops
-                            - descriptor:
-                                code: DOC_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: DOCUMENT_NAME
-                                  value: PAN_CARD
-                            - descriptor:
-                                code: JOB_RESPONSIBILITIES
-                              list:
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Build frontend experiences for our tools
-                                    (Web, PWA and React Native)
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Articulate a long-term technical direction
-                                    and vision for building, maintaining, and
-                                    scaling our web and mobile platforms
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Create trustworthy user experiences by
-                                    building interfaces that are simple, easy to
-                                    comprehend, performant, and reliable using
-                                    modern tools like React, React Native,
-                                    Typescript, Node.js, Jest, and Webpack.
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Mentor and train other team members on
-                                    design techniques and coding standards.
-                            - descriptor:
-                                code: JOB_DETAILS
-                              list:
-                                - descriptor:
-                                    code: JOB_TYPE
-                                  value: full-time
-                                - descriptor:
-                                    code: JOB_ROLE
-                                  value: Fullstack Engineer
-                                - descriptor:
-                                    code: JOB_LEVEL
-                                  value: Mid-level
-                                - descriptor:
-                                    code: GENDER_PREFERENCE
-                                  value: Male
-                            - descriptor:
-                                code: COMPENSATION
-                              list:
-                                - descriptor:
-                                    code: TYPE
-                                  value: lpa
-                                - descriptor:
-                                    code: MIN
-                                  value: '25'
-                                - descriptor:
-                                    code: MAX
-                                  value: '30'
-                            - descriptor:
-                                code: NP_FEES
-                              list:
-                                - code: ID
-                                  value: '1'
-                                - code: COMMERCIAL_TYPE
-                                  value: percent
-                                - code: COMMERCIAL_VALUE
-                                  value: '0.5'
-                                - code: COMMERCIAL_NAME
-                                  value: recruitment
-                                - code: COMMERCIAL_TRIGGERING_STATE
-                                  value: OFFER_ACCEPTED
-                                - code: COMPENSATION_TYPE
-                                  value: LPA
-                                - code: COMPENSATION_TRANSFER_PERIOD
-                                  value: P1M,P2M,P3M
-                                - code: COMPENSATION_PERCENTAGE_SPLIT
-                                  value: 50,25,25
-                          price:
-                            currency: INR
-                            value: '1100.00'
-                            maximum_value: '1200.0'
-                        - id: 34H1BH24GBH4BHH6DF15E62A81C375B6
-                          category_ids:
-                            - DevOps
-                          descriptor:
-                            name: Sr. Devops Engineer
-                            long_desc: >-
-                              We’re on a search for a Staff Mobile Developer
-                              with the following attributes: Critical Thinking-
-                              You are able to skillfully conceptualise, apply,
-                              analyse and evaluate information gathered from
-                              observation, experience or communication and use
-                              it as a guide to action Data-Driven attitude — You
-                              often propose solutions or make a point in a
-                              logical and objective manner, substantiated with
-                              accurate data and evidence Dealing with Ambiguity
-                              — You can effectively cope with change and
-                              uncertainty, and are comfortable when things are
-                              up in the air Goal-oriented — You are driven and
-                              can be counted on to exceed goals. You steadfastly
-                              push yourself and others to achieve results all
-                              the time Problem Solving — You can easily identify
-                              and solve complex problems in a methodological
-                              manner
-                            short_desc: >-
-                              We are seeking a Staff Mobile Developer with
-                              strong critical thinking, data-driven
-                              decision-making, adaptability, goal-orientation,
-                              and problem-solving skills.
-                            images:
-                              - url: images url1
-                              - url: images url2
-                            media:
-                              - mimetype: audio/mp4
-                                url: http://url-to-audio-about-job
-                              - mimetype: video/mp4
-                                url: http://url-to-video-about-job
-                          quantity:
-                            available:
-                              count: 150
-                          location_ids:
-                            - L1
-                          fulfillment_ids:
-                            - F1
-                            - F2
-                          creator:
-                            descriptor:
-                              name: Global Trade Hub
-                              code: GTH_99
-                              short_desc: Facilitating Global Commerce
-                              long_desc: >-
-                                Global Trade Hub is a platform designed to
-                                enable international trade by connecting buyers
-                                and sellers across borders with innovative
-                                solutions.
-                              media:
-                                - mimetype: image/svg+xml
-                                  url: https://globaltradehub.com/logo.svg
-                              images:
-                                - url: https://globaltradehub.com/header-image.jpg
-                            address: >-
-                              Suite 302, International Business Park, New Delhi,
-                              India
-                            state:
-                              code: DL
-                            city:
-                              code: NDL
-                            contact:
-                              phone: +91-1234567890
-                              email: info@globaltradehub.com
-                          time:
-                            label: enable
-                            timestamp: '2023-02-22T11:45:10.171Z'
-                            range:
-                              start: '2023-01-03T13:23:10.171Z'
-                              end: '2023-02-03T13:23:10.171Z'
-                          tags:
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '1'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '5'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1800'
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '6'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '6'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1400'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-X
-                                - descriptor:
-                                    code: MIN_CGPA
-                                  value: '6.5'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-XII
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Under Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: JOB_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: REQ_EXPERIENCE
-                                  value: P2Y6M
-                            - descriptor:
-                                code: DOC_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: DOCUMENT_NAME
-                                  value: AADHAAR_CARD
-                          price:
-                            currency: INR
-                            value: '1000.00'
-                            maximum_value: '1500.0'
-                        - id: 34H1BH24GBH4BHH6DF15E62A81C374B4
-                          category_ids:
-                            - DevOps
-                          descriptor:
-                            name: Jr. Devops Engineer
-                            long_desc: >-
-                              We’re on a search for a Staff Mobile Developer
-                              with the following attributes: Critical Thinking-
-                              You are able to skillfully conceptualise, apply,
-                              analyse and evaluate information gathered from
-                              observation, experience or communication and use
-                              it as a guide to action Data-Driven attitude — You
-                              often propose solutions or make a point in a
-                              logical and objective manner, substantiated with
-                              accurate data and evidence Dealing with Ambiguity
-                              — You can effectively cope with change and
-                              uncertainty, and are comfortable when things are
-                              up in the air Goal-oriented — You are driven and
-                              can be counted on to exceed goals. You steadfastly
-                              push yourself and others to achieve results all
-                              the time Problem Solving — You can easily identify
-                              and solve complex problems in a methodological
-                              manner
-                            short_desc: >-
-                              We are seeking a Staff Mobile Developer with
-                              strong critical thinking, data-driven
-                              decision-making, adaptability, goal-orientation,
-                              and problem-solving skills.
-                            images:
-                              - url: images url1
-                              - url: images url2
-                            media:
-                              - mimetype: audio/mp4
-                                url: http://url-to-audio-about-job
-                              - mimetype: video/mp4
-                                url: http://url-to-video-about-job
-                          quantity:
-                            available:
-                              count: 150
-                          location_ids:
-                            - L1
-                          fulfillment_ids:
-                            - F1
-                            - F2
-                          creator:
-                            descriptor:
-                              name: Marketplace Connector
-                              code: MPC_45
-                              short_desc: Connecting Digital Marketplaces
-                              long_desc: >-
-                                This platform bridges various digital
-                                marketplaces, fostering seamless trade and
-                                enhancing accessibility for businesses and
-                                consumers alike.
-                              media:
-                                - mimetype: image/jpeg
-                                  url: https://marketplace.com/logo.jpg
-                              images:
-                                - url: https://marketplace.com/banner.jpg
-                            address: Level 5, Trade Tower, Mumbai, Maharashtra, India
-                            state:
-                              code: MH
-                            city:
-                              code: MUM
-                            contact:
-                              phone: +91-1234567890
-                              email: support@marketplace.com
-                          time:
-                            label: enable
-                            timestamp: '2023-02-22T11:45:10.171Z'
-                            range:
-                              start: '2023-01-03T13:23:10.171Z'
-                              end: '2023-02-03T13:23:10.171Z'
-                          tags:
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '1'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '5'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1800'
-                            - descriptor:
-                                code: TIMING
-                              list:
-                                - descriptor:
-                                    code: DAY_FROM
-                                  value: '6'
-                                - descriptor:
-                                    code: DAY_TO
-                                  value: '6'
-                                - descriptor:
-                                    code: TIME_FROM
-                                  value: '0900'
-                                - descriptor:
-                                    code: TIME_TO
-                                  value: '1400'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-X
-                                - descriptor:
-                                    code: MIN_CGPA
-                                  value: '6.5'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_NAME
-                                  value: Class-XII
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Under Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: ACADEMIC_QUALIFICATIONS
-                              list:
-                                - descriptor:
-                                    code: COURSE_LEVEL
-                                  value: Graduate
-                                - descriptor:
-                                    code: MIN_PERCENTAGE
-                                  value: '60'
-                                - descriptor:
-                                    code: MANDATORY_ELIGIBILITY
-                                  value: 'true'
-                            - descriptor:
-                                code: JOB_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: REQ_EXPERIENCE
-                                  value: P6M
-                                - descriptor:
-                                    code: ADD_PROF_SKILL
-                                  value: pipeline-development
-                                - descriptor:
-                                    code: ADD_PROF_SKILL
-                                  value: dev-ops
-                            - descriptor:
-                                code: DOC_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: DOCUMENT_NAME
-                                  value: AADHAAR_CARD
-                            - descriptor:
-                                code: DOC_REQUIREMENTS
-                              list:
-                                - descriptor:
-                                    code: DOCUMENT_NAME
-                                  value: PAN_CARD
-                            - descriptor:
-                                code: JOB_RESPONSIBILITIES
-                              list:
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Build frontend experiences for our tools
-                                    (Web, PWA and React Native)
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Articulate a long term technical direction
-                                    and vision for building, maintaining, and
-                                    scaling our web and mobile platforms
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Create trustworthy user experiences by
-                                    building interfaces that are simple, easy to
-                                    comprehend, performant and reliable using
-                                    modern tools like React, React Native,
-                                    Typescript, Node.js, Jest and Webpack.
-                                - descriptor:
-                                    code: RESPONSIBILITY
-                                  value: >-
-                                    Mentor and train other team members on
-                                    design techniques and coding standards.
-                            - descriptor:
-                                code: JOB_DETAILS
-                              list:
-                                - descriptor:
-                                    code: JOB_TYPE
-                                  value: full-time
-                                - descriptor:
-                                    code: JOB_ROLE
-                                  value: DevOps Engineer
-                                - descriptor:
-                                    code: JOB_LEVEL
-                                  value: Entry-level
-                                - descriptor:
-                                    code: GENDER_PREFERENCE
-                                  value: Male
-                            - descriptor:
-                                code: COMPENSATION
-                              list:
-                                - descriptor:
-                                    code: TYPE
-                                  value: ctc
-                                - descriptor:
-                                    code: MIN
-                                  value: '2500000'
-                                - descriptor:
-                                    code: MAX
-                                  value: '3000000'
-                            - descriptor:
-                                code: NP_FEES
-                              list:
-                                - code: ID
-                                  value: '1'
-                                - code: COMMERCIAL_TYPE
-                                  value: percent
-                                - code: COMMERCIAL_VALUE
-                                  value: '0.5'
-                                - code: COMMERCIAL_NAME
-                                  value: recruitment
-                                - code: COMMERCIAL_TRIGGERING_STATE
-                                  value: OFFER_ACCEPTED
-                                - code: COMPENSATION_TYPE
-                                  value: CTC
-                                - code: COMPENSATION_TRANSFER_PERIOD
-                                  value: P1M,P3M,P10M
-                                - code: COMPENSATION_PERCENTAGE_SPLIT
-                                  value: 25,25,50
-                            - descriptor:
-                                code: NP_FEES
-                              list:
-                                - code: ID
-                                  value: '2'
-                                - code: COMMERCIAL_TYPE
-                                  value: percent
-                                - code: COMMERCIAL_VALUE
-                                  value: '0.2'
-                                - code: COMMERCIAL_NAME
-                                  value: lead
-                                - code: COMMERCIAL_TRIGGERING_STATE
-                                  value: OFFER_EXTENDED
-                                - code: COMPENSATION_TYPE
-                                  value: LPA
-                                - code: COMPENSATION_TRANSFER_PERIOD
-                                  value: P1M,P2M,P3M
-                                - code: COMPENSATION_PERCENTAGE_SPLIT
-                                  value: 50,25,25
-                            - descriptor:
-                                code: NP_FEES
-                              list:
-                                - code: ID
-                                  value: '3'
-                                - code: COMMERCIAL_TYPE
-                                  value: amount
-                                - code: COMMERCIAL_VALUE
-                                  value: '300'
-                                - code: COMMERCIAL_NAME
-                                  value: lead
-                                - code: COMMERCIAL_TRIGGERING_STATE
-                                  value: APPLICATION_SUBMITTED
-                                - code: COMPENSATION_TYPE
-                                  value: CTC
-                                - code: COMPENSATION_TRANSFER_PERIOD
-                                  value: P1M,P3M,P10M
-                                - code: COMPENSATION_PERCENTAGE_SPLIT
-                                  value: 25,25,50
-                          price:
-                            currency: INR
-                            value: '1000.00'
-                            maximum_value: '1500.0'
-                      tags:
-                        - descriptor:
-                            code: LOCATION
-                          list:
-                            - descriptor:
-                                code: ADDRESS
-                              value: Level 5, Trade Tower, Mumbai, Maharashtra, India
-          on_search - by category:
+          on_search - by category (optional):
             value:
               context:
                 domain: ONDC:ONEST10
@@ -12125,7 +11865,7 @@ x-examples:
                             - descriptor:
                                 code: ADDRESS
                               value: Level 5, Trade Tower, Mumbai, Maharashtra, India
-          on_search - by employment type:
+          on_search - by employment type (optional):
             value:
               context:
                 domain: ONDC:ONEST10
