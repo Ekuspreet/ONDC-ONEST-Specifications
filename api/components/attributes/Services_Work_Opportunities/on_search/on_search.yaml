@@ -94,7 +94,7 @@ message:
             reference: null
           images.url:
             description: "image URL"
-            required: mandatory
+            required: optional
             usage: "url of the image of the provider"
             reference: null
         fulfillments:
