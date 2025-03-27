@@ -27,19 +27,15 @@ value:
           - descriptor:
               code: JOB_DETAILS
             list:
-              - descriptor:
-                  code: JOB_TYPE
+              - code: JOB_TYPE
                 value: full-time
       tags:
         - descriptor:
             code: BAP_TERMS
           list:
-            - descriptor:
-                code: STATIC_TERMS
+            - code: STATIC_TERMS
               value: static_terms_value
-            - descriptor:
-                code: STATIC_TERMS_NEW
+            - code: STATIC_TERMS_NEW
               value: static_terms_new_value
-            - descriptor:
-                code: EFFECTIVE_DATE
+            - code: EFFECTIVE_DATE
               value: "2023-02-22T11:20:10.122Z"

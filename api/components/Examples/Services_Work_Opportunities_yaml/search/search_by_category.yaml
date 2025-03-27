@@ -21,8 +21,7 @@ value:
           - descriptor:
               code: JOB_DETAILS
             list:
-              - descriptor:
-                  code: INDUSTRY_TYPE
+              - code: INDUSTRY_TYPE
                 value: IT Services & Consulting
       payment:
         descriptor:

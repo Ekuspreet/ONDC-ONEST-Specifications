@@ -26,6 +26,5 @@ value:
         - descriptor:
             code: CATALOG_INC
           list:
-            - descriptor:
-                code: MODE
+            - code: MODE
               value: stop
